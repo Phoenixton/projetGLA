@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="couche de persistance"/>
 	<classpathentry kind="src" path="GLA 2018/src/main/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_144"/>
 	<classpathentry kind="lib" path="C:/Users/perri/Documents/checkstyle-8.8-all.jar"/>
 	<classpathentry kind="output" path="GLA 2018/target/classes"/>
 </classpath>
